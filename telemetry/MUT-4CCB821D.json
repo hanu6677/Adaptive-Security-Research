@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2026-09-29T12:42:30.688422",
+        "experiment_id": "MUT-4CCB821D",
+        "event_type": "PROCESS_START",
+        "details": "Started MUT-4CCB821D_BENIGN-0DF67028.py"
+    },
+    {
+        "timestamp": "2026-09-29T12:42:30.689162",
+        "experiment_id": "MUT-4CCB821D",
+        "event_type": "FILE_OPERATION",
+        "details": "Benign test file operation completed"
+    },
+    {
+        "timestamp": "2026-09-29T12:42:30.710661",
+        "experiment_id": "MUT-4CCB821D",
+        "event_type": "PROCESS_END",
+        "details": "Process returned code 0"
+    }
+]

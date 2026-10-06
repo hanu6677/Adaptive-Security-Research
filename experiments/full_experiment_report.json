@@ -1,0 +1,64 @@
+{
+    "project": "AI-Driven Adaptive Evasion Research Framework",
+    "experiment_started": "2026-10-03T15:55:11.957630",
+    "total_variants": 3,
+    "results": [
+        {
+            "experiment_id": "MUT-6A57DF3B",
+            "iteration": 1,
+            "sample": "mutations\\MUT-6A57DF3B_BENIGN-0DF67028.py",
+            "execution": {
+                "return_code": 0,
+                "stdout": "Sample ID: BENIGN-0DF67028\nStarting benign telemetry test\nRead test data: This is harmless research data.\nBenign telemetry test completed\n",
+                "stderr": "",
+                "status": "COMPLETED"
+            },
+            "analysis": {
+                "total_events": 3,
+                "process_events": 1,
+                "file_events": 1,
+                "network_events": 0
+            },
+            "windows_event_count": 20,
+            "timestamp": "2026-10-03T15:55:11.695198"
+        },
+        {
+            "experiment_id": "MUT-132FFF97",
+            "iteration": 2,
+            "sample": "mutations\\MUT-132FFF97_BENIGN-0DF67028.py",
+            "execution": {
+                "return_code": 0,
+                "stdout": "Sample ID: BENIGN-0DF67028\nStarting benign telemetry test\nRead test data: This is harmless research data.\nBenign telemetry test completed\n",
+                "stderr": "",
+                "status": "COMPLETED"
+            },
+            "analysis": {
+                "total_events": 3,
+                "process_events": 1,
+                "file_events": 1,
+                "network_events": 0
+            },
+            "windows_event_count": 20,
+            "timestamp": "2026-10-03T15:55:11.817719"
+        },
+        {
+            "experiment_id": "MUT-616863E5",
+            "iteration": 3,
+            "sample": "mutations\\MUT-616863E5_BENIGN-0DF67028.py",
+            "execution": {
+                "return_code": 0,
+                "stdout": "Sample ID: BENIGN-0DF67028\nStarting benign telemetry test\nRead test data: This is harmless research data.\nBenign telemetry test completed\n",
+                "stderr": "",
+                "status": "COMPLETED"
+            },
+            "analysis": {
+                "total_events": 3,
+                "process_events": 1,
+                "file_events": 1,
+                "network_events": 0
+            },
+            "windows_event_count": 20,
+            "timestamp": "2026-10-03T15:55:11.957622"
+        }
+    ]
+}

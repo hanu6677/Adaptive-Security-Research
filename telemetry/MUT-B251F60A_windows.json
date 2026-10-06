@@ -1,0 +1,162 @@
+[
+    {
+        "timestamp": "2026-09-27T13:42:17.233877",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 6062,
+        "source": "Netwtw14",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.233899",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 7021,
+        "source": "Netwtw14",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.233901",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 566,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.233902",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 507,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.233903",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 172,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.233905",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 172,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.233906",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 566,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.233907",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 506,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.233908",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 566,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.233912",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 507,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.233913",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 172,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.233914",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 172,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.233914",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 566,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.233915",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 506,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.234195",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 566,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.234200",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 6062,
+        "source": "Netwtw14",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.234201",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 7021,
+        "source": "Netwtw14",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.234204",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 566,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.234205",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 507,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    },
+    {
+        "timestamp": "2026-09-27T13:42:17.234206",
+        "experiment_id": "MUT-B251F60A",
+        "event_id": 172,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_EVENT"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2026-09-29T12:42:30.396072",
+        "experiment_id": "MUT-27C2347A",
+        "event_type": "PROCESS_START",
+        "details": "Started MUT-27C2347A_BENIGN-0DF67028.py"
+    },
+    {
+        "timestamp": "2026-09-29T12:42:30.397390",
+        "experiment_id": "MUT-27C2347A",
+        "event_type": "FILE_OPERATION",
+        "details": "Benign test file operation completed"
+    },
+    {
+        "timestamp": "2026-09-29T12:42:30.422746",
+        "experiment_id": "MUT-27C2347A",
+        "event_type": "PROCESS_END",
+        "details": "Process returned code 0"
+    }
+]

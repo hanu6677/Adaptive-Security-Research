@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2026-09-27T13:43:05.592261",
+        "experiment_id": "MUT-F70B42DD",
+        "event_type": "PROCESS_START",
+        "details": "Started MUT-F70B42DD_BENIGN-0DF67028.py"
+    },
+    {
+        "timestamp": "2026-09-27T13:43:05.593018",
+        "experiment_id": "MUT-F70B42DD",
+        "event_type": "FILE_OPERATION",
+        "details": "Benign test file operation completed"
+    },
+    {
+        "timestamp": "2026-09-27T13:43:05.612123",
+        "experiment_id": "MUT-F70B42DD",
+        "event_type": "PROCESS_END",
+        "details": "Process returned code 0"
+    }
+]

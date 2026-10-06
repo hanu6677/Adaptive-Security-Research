@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2026-10-01T11:52:13.575913",
+        "experiment_id": "MUT-00955DDA",
+        "event_type": "PROCESS_START",
+        "details": "Started MUT-00955DDA_BENIGN-0DF67028.py"
+    },
+    {
+        "timestamp": "2026-10-01T11:52:13.576543",
+        "experiment_id": "MUT-00955DDA",
+        "event_type": "FILE_OPERATION",
+        "details": "Benign test file operation completed"
+    },
+    {
+        "timestamp": "2026-10-01T11:52:13.593670",
+        "experiment_id": "MUT-00955DDA",
+        "event_type": "PROCESS_END",
+        "details": "Process returned code 0"
+    }
+]

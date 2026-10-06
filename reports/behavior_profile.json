@@ -1,0 +1,580 @@
+{
+    "framework": "AI-Driven Adaptive Evasion Research Framework",
+    "purpose": "Expected versus observed behavior visibility analysis",
+    "summary": {
+        "experiments": 21,
+        "average_visibility": 0.0,
+        "fully_visible": 0,
+        "partially_visible": 0,
+        "missing_visibility": 21
+    },
+    "experiments": [
+        {
+            "experiment_id": "MUT-00955DDA",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-09E76C07",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-0B4EEF71",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-132FFF97",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-18148806",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-27C2347A",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-2ABC6258",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-4CCB821D",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-53FD9A8A",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-616863E5",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-6A57DF3B",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-6EDACE36",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-82E672C9",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-8A1BC484",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-A8E0E3FD",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-AA02285F",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-B251F60A",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-C206051D",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-CBBC0272",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-F70B42DD",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        },
+        {
+            "experiment_id": "MUT-F9BA8467",
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0
+        }
+    ]
+}

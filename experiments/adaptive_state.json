@@ -1,0 +1,8 @@
+{
+    "previous_experiment": "MUT-F9BA8467",
+    "previous_visibility": 0.0,
+    "selected_strategy": "FILE_STRUCTURE_VARIATION",
+    "experiment_id": "MUT-FAFF6AA6",
+    "source": "samples\\BENIGN-0DF67028.py",
+    "generated_sample": "mutations\\MUT-FAFF6AA6_BENIGN-0DF67028.py"
+}

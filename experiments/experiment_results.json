@@ -1,0 +1,31 @@
+{
+    "experiment_started": "2026-09-26T11:52:23.892833",
+    "sample": "samples\\BENIGN-0DF67028.py",
+    "total_variants": 3,
+    "results": [
+        {
+            "experiment_id": "MUT-913B0921",
+            "iteration": 1,
+            "source": "samples\\BENIGN-0DF67028.py",
+            "mutated_sample": "mutations\\MUT-913B0921_BENIGN-0DF67028.py",
+            "started_at": "2026-09-26T11:52:23.891575",
+            "status": "GENERATED"
+        },
+        {
+            "experiment_id": "MUT-65F1E1AC",
+            "iteration": 2,
+            "source": "samples\\BENIGN-0DF67028.py",
+            "mutated_sample": "mutations\\MUT-65F1E1AC_BENIGN-0DF67028.py",
+            "started_at": "2026-09-26T11:52:23.892309",
+            "status": "GENERATED"
+        },
+        {
+            "experiment_id": "MUT-C4E22A70",
+            "iteration": 3,
+            "source": "samples\\BENIGN-0DF67028.py",
+            "mutated_sample": "mutations\\MUT-C4E22A70_BENIGN-0DF67028.py",
+            "started_at": "2026-09-26T11:52:23.892827",
+            "status": "GENERATED"
+        }
+    ]
+}

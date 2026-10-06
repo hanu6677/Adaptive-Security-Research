@@ -1,0 +1,202 @@
+[
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:37:47",
+        "event_id": 566,
+        "record_number": 153330,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:37:47",
+        "event_id": 507,
+        "record_number": 153329,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:37:38",
+        "event_id": 506,
+        "record_number": 153328,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:37:38",
+        "event_id": 566,
+        "record_number": 153327,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:30:52",
+        "event_id": 6062,
+        "record_number": 153326,
+        "source": "Netwtw14",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:30:50",
+        "event_id": 7021,
+        "record_number": 153325,
+        "source": "Netwtw14",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:30:50",
+        "event_id": 566,
+        "record_number": 153324,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:30:50",
+        "event_id": 507,
+        "record_number": 153323,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:30:50",
+        "event_id": 18,
+        "record_number": 153322,
+        "source": "BTHUSB",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:30:49",
+        "event_id": 172,
+        "record_number": 153321,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:28:37",
+        "event_id": 18,
+        "record_number": 153320,
+        "source": "BTHUSB",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:28:37",
+        "event_id": 172,
+        "record_number": 153319,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:28:31",
+        "event_id": 566,
+        "record_number": 153318,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:28:26",
+        "event_id": 506,
+        "record_number": 153317,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:28:26",
+        "event_id": 566,
+        "record_number": 153316,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:28:26",
+        "event_id": 507,
+        "record_number": 153315,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:28:26",
+        "event_id": 172,
+        "record_number": 153314,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:28:17",
+        "event_id": 172,
+        "record_number": 153313,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:28:12",
+        "event_id": 566,
+        "record_number": 153312,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-09E76C07",
+        "timestamp": "2026-09-29T12:28:06",
+        "event_id": 506,
+        "record_number": 153311,
+        "source": "Microsoft-Windows-Kernel-Power",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    }
+]

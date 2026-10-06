@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2026-09-29T12:00:12.215863",
+        "experiment_id": "MUT-CBBC0272",
+        "event_type": "PROCESS_START",
+        "details": "Started MUT-CBBC0272_BENIGN-0DF67028.py"
+    },
+    {
+        "timestamp": "2026-09-29T12:00:12.218642",
+        "experiment_id": "MUT-CBBC0272",
+        "event_type": "FILE_OPERATION",
+        "details": "Benign test file operation completed"
+    },
+    {
+        "timestamp": "2026-09-29T12:00:12.252485",
+        "experiment_id": "MUT-CBBC0272",
+        "event_type": "PROCESS_END",
+        "details": "Process returned code 0"
+    }
+]

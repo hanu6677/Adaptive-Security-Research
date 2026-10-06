@@ -1,0 +1,2740 @@
+{
+    "experiments": [
+        {
+            "experiment_id": "MUT-00955DDA",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 2,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-10-01T11:20:45",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:21:35",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:21:35",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:21:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:06",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:07",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:08",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:29:01",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:35:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:35:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:35:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:38:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:39:25",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:45:58",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:52:13.575913",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-10-01T11:52:13.576543",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-10-01T11:52:13.593670",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-09E76C07",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 2,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-09-29T12:28:06",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:12",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:17",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:26",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:26",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:26",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:26",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:31",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:49",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:50",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:50",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:50",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:50",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:52",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:37:38",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:37:38",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:37:47",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:37:47",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:42:30.980587",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-29T12:42:30.983027",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-29T12:42:31.011700",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-0B4EEF71",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 3,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-09-27T15:49:19.384097",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.384552",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.400866",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415038",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415048",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415049",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415050",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415051",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415052",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415054",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415055",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415056",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "PROCESS",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415057",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415058",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415059",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415060",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415061",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415353",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415358",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415359",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415360",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415361",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.415362",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-18148806",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 2,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-09-27T13:42:17.027206",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.027841",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.040531",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.064784",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.064806",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.064808",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.064809",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.064810",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.064812",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.064814",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.064815",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.064816",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.064817",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.064818",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.064819",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.064820",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.064822",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.065156",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.065161",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.065163",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.065164",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.065165",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.065166",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-27C2347A",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 2,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-09-29T12:28:06",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:12",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:17",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:26",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:26",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:26",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:26",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:31",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:49",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:50",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:50",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:50",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:50",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:52",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:37:38",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:37:38",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:37:47",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:37:47",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:42:30.396072",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-29T12:42:30.397390",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-29T12:42:30.422746",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-2ABC6258",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 2,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-09-27T13:43:05.943669",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.944276",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.959592",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973470",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973477",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973479",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973480",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973481",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973482",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973483",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973484",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973485",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973486",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973487",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973488",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973489",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973780",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973785",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973786",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973787",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973789",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973791",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.973792",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-4CCB821D",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 2,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-09-29T12:28:06",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:12",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:17",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:26",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:26",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:26",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:26",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:31",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:28:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:49",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:50",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:50",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:50",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:50",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:30:52",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:37:38",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:37:38",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:37:47",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:37:47",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:42:30.688422",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-29T12:42:30.689162",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-29T12:42:30.710661",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-53FD9A8A",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 2,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-09-27T13:43:05.780412",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.780976",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.795987",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.820894",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.820907",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.820909",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.820910",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.820911",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.820912",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.820914",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.820915",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.820916",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.820917",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.820918",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.820918",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.820919",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.821322",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.821327",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.821329",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.821330",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.821331",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.821332",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.821333",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-6EDACE36",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 3,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-09-29T11:44:09",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:09",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:12",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:14",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "PROCESS",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:14",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:14",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:14",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:14",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:15",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:21",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:21",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:45:28",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:45:28",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:46:36",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:48:09",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:51:21",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:51:41",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:52:11",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:56:07",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:00:00",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:00:13.611491",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-29T12:00:13.614402",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-29T12:00:13.659861",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-82E672C9",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 2,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-10-01T11:20:45",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:21:35",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:21:35",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:21:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:06",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:07",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:08",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:29:01",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:35:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:35:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:35:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:38:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:39:25",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:45:58",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:52:13.740482",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-10-01T11:52:13.741056",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-10-01T11:52:13.753906",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-8A1BC484",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 3,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-09-27T15:49:19.526146",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.526674",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.541444",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561101",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561107",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561109",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561110",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561111",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561112",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561113",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561113",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561114",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "PROCESS",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561115",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561117",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561118",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561119",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561120",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561439",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561444",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561447",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561450",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561451",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.561452",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-A8E0E3FD",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 2,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-10-01T11:20:45",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:21:35",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:21:35",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:21:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:06",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:07",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:08",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:22:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:29:01",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:35:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:35:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:35:37",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:38:39",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:39:25",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:45:58",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-10-01T11:52:13.883232",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-10-01T11:52:13.883687",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-10-01T11:52:13.902631",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-AA02285F",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 3,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-09-27T15:49:19.246082",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.246615",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.258404",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289173",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289185",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289189",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289192",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289193",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289194",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289195",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289196",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289197",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "PROCESS",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289198",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289199",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289200",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289201",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289202",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289497",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289502",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289503",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289505",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289506",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T15:49:19.289506",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-B251F60A",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 2,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-09-27T13:42:17.190311",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.191473",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.211462",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.233877",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.233899",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.233901",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.233902",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.233903",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.233905",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.233906",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.233907",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.233908",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.233912",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.233913",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.233914",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.233914",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.233915",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.234195",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.234200",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.234201",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.234204",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.234205",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:17.234206",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-C206051D",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 2,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-09-27T13:42:16.834436",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.834968",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.849201",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.898689",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.898701",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.898710",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.898711",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.898712",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.898714",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.898715",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.898716",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.898717",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.898718",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.898718",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.898719",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.898720",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.898721",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.899014",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.899020",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.899023",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.899024",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.899026",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:42:16.899027",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-CBBC0272",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 3,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-09-29T11:44:09",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:09",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:12",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:14",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "PROCESS",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:14",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:14",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:14",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:14",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:15",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:21",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:21",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:45:28",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:45:28",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:46:36",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:48:09",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:51:21",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:51:41",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:52:11",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:56:07",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:00:00",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:00:12.215863",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-29T12:00:12.218642",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-29T12:00:12.252485",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-F70B42DD",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 2,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-09-27T13:43:05.592261",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.593018",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.612123",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651232",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651251",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651258",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651261",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651262",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651269",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651271",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651272",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651273",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651274",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651275",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651276",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651277",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651756",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651764",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651766",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651767",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651771",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651772",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-27T13:43:05.651774",
+                    "event_type": "WINDOWS_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                }
+            ]
+        },
+        {
+            "experiment_id": "MUT-F9BA8467",
+            "event_count": 23,
+            "category_counts": {
+                "PROCESS": 3,
+                "FILE": 1,
+                "NETWORK": 0,
+                "DNS": 0,
+                "REGISTRY": 0,
+                "OTHER": 0
+            },
+            "timeline": [
+                {
+                    "timestamp": "2026-09-29T11:44:09",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:09",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:12",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:14",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "PROCESS",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:14",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:14",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:14",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:14",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:15",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:21",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:44:21",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:45:28",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:45:28",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:46:36",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:48:09",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:51:21",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:51:41",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:52:11",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T11:56:07",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:00:00",
+                    "event_type": "WINDOWS_SYSTEM_EVENT",
+                    "category": "SYSTEM",
+                    "source": "WINDOWS"
+                },
+                {
+                    "timestamp": "2026-09-29T12:00:14.825261",
+                    "event_type": "PROCESS_START",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-29T12:00:14.830219",
+                    "event_type": "FILE_OPERATION",
+                    "category": "FILE",
+                    "source": "INTERNAL"
+                },
+                {
+                    "timestamp": "2026-09-29T12:00:14.891448",
+                    "event_type": "PROCESS_END",
+                    "category": "PROCESS",
+                    "source": "INTERNAL"
+                }
+            ]
+        }
+    ]
+}

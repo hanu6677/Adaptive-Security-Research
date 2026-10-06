@@ -1,0 +1,307 @@
+{
+    "framework": "AI-Driven Adaptive Evasion Research Framework",
+    "purpose": "Defensive telemetry visibility measurement",
+    "summary": {
+        "experiments": 21,
+        "average_coverage": 0.0,
+        "max_coverage": 0.0,
+        "min_coverage": 0.0,
+        "categories_observed": []
+    },
+    "experiments": [
+        {
+            "experiment_id": "MUT-00955DDA",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-09E76C07",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-0B4EEF71",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-132FFF97",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-18148806",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-27C2347A",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-2ABC6258",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-4CCB821D",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-53FD9A8A",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-616863E5",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-6A57DF3B",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-6EDACE36",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-82E672C9",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-8A1BC484",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-A8E0E3FD",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-AA02285F",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-B251F60A",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-C206051D",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-CBBC0272",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-F70B42DD",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-F9BA8467",
+            "event_counts": {
+                "process": 0,
+                "file": 0,
+                "network": 0,
+                "registry": 0,
+                "dns": 0
+            },
+            "observed_categories": [],
+            "observed_category_count": 0,
+            "monitored_category_count": 5,
+            "telemetry_category_coverage": 0.0
+        }
+    ]
+}

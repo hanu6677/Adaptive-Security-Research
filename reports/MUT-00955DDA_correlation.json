@@ -1,0 +1,254 @@
+{
+    "experiment_id": "MUT-00955DDA",
+    "generated_at": "2026-10-05T12:46:25.064701",
+    "telemetry_sources": {
+        "internal": 3,
+        "windows": 20,
+        "sysmon": 0
+    },
+    "metrics": {
+        "total_events": 23,
+        "internal_events": 3,
+        "windows_events": 20,
+        "sysmon_events": 0,
+        "process_events": 2,
+        "file_events": 1,
+        "network_events": 0,
+        "registry_events": 0,
+        "dns_events": 0,
+        "system_events": 20,
+        "other_events": 0
+    },
+    "timeline": [
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:20:45",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 10016,
+            "record_number": 153883,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:21:35",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 7045,
+            "record_number": 153885,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:21:35",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 7040,
+            "record_number": 153884,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:21:37",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 7040,
+            "record_number": 153886,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:22:06",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 7021,
+            "record_number": 153887,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:22:07",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 7040,
+            "record_number": 153888,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:22:08",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 6062,
+            "record_number": 153889,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:22:39",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 113,
+            "record_number": 153895,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:22:39",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 15007,
+            "record_number": 153894,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:22:39",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 112,
+            "record_number": 153893,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:22:39",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 15008,
+            "record_number": 153892,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:22:39",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 112,
+            "record_number": 153891,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:22:39",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 114,
+            "record_number": 153890,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:29:01",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 10016,
+            "record_number": 153896,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:35:37",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 16,
+            "record_number": 153899,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:35:37",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 16,
+            "record_number": 153898,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:35:37",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 16,
+            "record_number": 153897,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:38:39",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 7040,
+            "record_number": 153900,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:39:25",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 7040,
+            "record_number": 153901,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "WINDOWS",
+            "timestamp": "2026-10-01T11:45:58",
+            "category": "SYSTEM",
+            "event_type": "WINDOWS_SYSTEM_EVENT",
+            "event_id": 10016,
+            "record_number": 153902,
+            "details": null,
+            "computer": "Hanu"
+        },
+        {
+            "source": "INTERNAL",
+            "timestamp": "2026-10-01T11:52:13.575913",
+            "category": "PROCESS",
+            "event_type": "PROCESS_START",
+            "event_id": null,
+            "record_number": null,
+            "details": "Started MUT-00955DDA_BENIGN-0DF67028.py",
+            "computer": null
+        },
+        {
+            "source": "INTERNAL",
+            "timestamp": "2026-10-01T11:52:13.576543",
+            "category": "FILE",
+            "event_type": "FILE_OPERATION",
+            "event_id": null,
+            "record_number": null,
+            "details": "Benign test file operation completed",
+            "computer": null
+        },
+        {
+            "source": "INTERNAL",
+            "timestamp": "2026-10-01T11:52:13.593670",
+            "category": "PROCESS",
+            "event_type": "PROCESS_END",
+            "event_id": null,
+            "record_number": null,
+            "details": "Process returned code 0",
+            "computer": null
+        }
+    ]
+}

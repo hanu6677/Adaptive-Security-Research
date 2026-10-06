@@ -1,0 +1,752 @@
+{
+    "report_name": "Adaptive Security Research Report",
+    "framework": "AI-Driven Adaptive Evasion Research Framework",
+    "purpose": "Defensive analysis of telemetry visibility across controlled benign experiments.",
+    "generated_at": "2026-10-05T12:46:26.034731",
+    "summary": {
+        "total_experiments": 21,
+        "average_behavior_visibility": 0.0,
+        "fully_visible_experiments": 0,
+        "partially_visible_experiments": 0,
+        "missing_visibility_experiments": 21,
+        "average_telemetry_coverage": 0.0,
+        "categories_observed": []
+    },
+    "experiments": [
+        {
+            "experiment_id": "MUT-00955DDA",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-09E76C07",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-0B4EEF71",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-132FFF97",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-18148806",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-27C2347A",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-2ABC6258",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-4CCB821D",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-53FD9A8A",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-616863E5",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-6A57DF3B",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-6EDACE36",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-82E672C9",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-8A1BC484",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-A8E0E3FD",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-AA02285F",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-B251F60A",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-C206051D",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-CBBC0272",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-F70B42DD",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        },
+        {
+            "experiment_id": "MUT-F9BA8467",
+            "telemetry": {
+                "total_events": 0,
+                "internal_events": 0,
+                "windows_events": 0,
+                "sysmon_events": 0,
+                "process_events": 0,
+                "file_events": 0,
+                "network_events": 0,
+                "registry_events": 0,
+                "dns_events": 0
+            },
+            "expected_behavior": {
+                "PROCESS": true,
+                "FILE": true,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_behavior": {
+                "PROCESS": false,
+                "FILE": false,
+                "NETWORK": false,
+                "DNS": false,
+                "REGISTRY": false
+            },
+            "observed_expected_categories": [],
+            "missing_expected_categories": [
+                "PROCESS",
+                "FILE"
+            ],
+            "expected_behavior_visibility": 0.0,
+            "telemetry_category_coverage": 0.0
+        }
+    ]
+}

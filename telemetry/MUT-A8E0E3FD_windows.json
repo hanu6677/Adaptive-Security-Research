@@ -1,0 +1,202 @@
+[
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:45:58",
+        "event_id": 10016,
+        "record_number": 153902,
+        "source": "DCOM",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:39:25",
+        "event_id": 7040,
+        "record_number": 153901,
+        "source": "Service Control Manager",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SERVICE_CONFIGURATION_CHANGE"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:38:39",
+        "event_id": 7040,
+        "record_number": 153900,
+        "source": "Service Control Manager",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SERVICE_CONFIGURATION_CHANGE"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:35:37",
+        "event_id": 16,
+        "record_number": 153899,
+        "source": "Microsoft-Windows-Kernel-General",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:35:37",
+        "event_id": 16,
+        "record_number": 153898,
+        "source": "Microsoft-Windows-Kernel-General",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:35:37",
+        "event_id": 16,
+        "record_number": 153897,
+        "source": "Microsoft-Windows-Kernel-General",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:29:01",
+        "event_id": 10016,
+        "record_number": 153896,
+        "source": "DCOM",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:22:39",
+        "event_id": 113,
+        "record_number": 153895,
+        "source": "Microsoft-Windows-HttpService",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:22:39",
+        "event_id": 15007,
+        "record_number": 153894,
+        "source": "HTTP",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:22:39",
+        "event_id": 112,
+        "record_number": 153893,
+        "source": "Microsoft-Windows-HttpService",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:22:39",
+        "event_id": 15008,
+        "record_number": 153892,
+        "source": "HTTP",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:22:39",
+        "event_id": 112,
+        "record_number": 153891,
+        "source": "Microsoft-Windows-HttpService",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:22:39",
+        "event_id": 114,
+        "record_number": 153890,
+        "source": "Microsoft-Windows-HttpService",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:22:08",
+        "event_id": 6062,
+        "record_number": 153889,
+        "source": "Netwtw14",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:22:07",
+        "event_id": 7040,
+        "record_number": 153888,
+        "source": "Service Control Manager",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SERVICE_CONFIGURATION_CHANGE"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:22:06",
+        "event_id": 7021,
+        "record_number": 153887,
+        "source": "Netwtw14",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:21:37",
+        "event_id": 7040,
+        "record_number": 153886,
+        "source": "Service Control Manager",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SERVICE_CONFIGURATION_CHANGE"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:21:35",
+        "event_id": 7045,
+        "record_number": 153885,
+        "source": "Service Control Manager",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:21:35",
+        "event_id": 7040,
+        "record_number": 153884,
+        "source": "Service Control Manager",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SERVICE_CONFIGURATION_CHANGE"
+    },
+    {
+        "experiment_id": "MUT-A8E0E3FD",
+        "timestamp": "2026-10-01T11:20:45",
+        "event_id": 10016,
+        "record_number": 153883,
+        "source": "DCOM",
+        "computer": "Hanu",
+        "event_type": "WINDOWS_SYSTEM_EVENT",
+        "category": "SYSTEM"
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "previous_experiment": "MUT-F9BA8467",
+    "previous_visibility": 0.0,
+    "missing_categories": [
+        "PROCESS",
+        "FILE"
+    ],
+    "selected_strategy": "FILE_STRUCTURE_VARIATION",
+    "purpose": "Select the next safe benign telemetry experiment."
+}
